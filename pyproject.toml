@@ -1,0 +1,13 @@
+[project]
+name = "m5-brief3"
+version = "0.1.0"
+description = "M5-Brief 3 – Mettre en place un monitoring complet pour une solution IA conteneurisée"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi>=0.136.1",
+    "loguru>=0.7.3",
+    "pydantic>=2.13.4",
+    "requests>=2.34.2",
+    "streamlit>=1.57.0",
+]
