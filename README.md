@@ -1,4 +1,5 @@
 # Projet Python - Streamlit + FastAPI avec supervision/suivi performance inclus
+Evolution du BIREF M5 B2 avec ajout de supervision et alerting
 
 # 🚀 Projet Python - Streamlit + FastAPI + Docker
 
@@ -28,7 +29,7 @@ Ce projet est une application complète basée sur une architecture **frontend /
 
 De plus ce code permet de  déployer les images automatiquement sur Docker Hub dès qu’un commit est effectué sur la branche main.
 
-Et les docker inclus la supervison/alerting
+Et les dockers incluent désormais la supervison/alerting
 ---
 
 ## 🏗️ Architecture du projet
